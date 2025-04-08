@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		AF16C17F2DA4B71B00E7A180 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF16C1602DA4B71A00E7A180 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AF16C1672DA4B71A00E7A180;
+			remoteInfo = "airQualityApp-chan";
+		};
+		AF16C1892DA4B71B00E7A180 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF16C1602DA4B71A00E7A180 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AF16C1672DA4B71A00E7A180;
+			remoteInfo = "airQualityApp-chan";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AF16C1682DA4B71B00E7A180 /* airQualityApp-chan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "airQualityApp-chan.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF16C17E2DA4B71B00E7A180 /* airQualityApp-chanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "airQualityApp-chanTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF16C1882DA4B71B00E7A180 /* airQualityApp-chanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "airQualityApp-chanUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		AF16C1902DA4B71B00E7A180 /* Exceptions for "airQualityApp-chan" folder in "airQualityApp-chan" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = AF16C1672DA4B71A00E7A180 /* airQualityApp-chan */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		AF16C16A2DA4B71B00E7A180 /* airQualityApp-chan */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				AF16C1902DA4B71B00E7A180 /* Exceptions for "airQualityApp-chan" folder in "airQualityApp-chan" target */,
+			);
+			path = "airQualityApp-chan";
+			sourceTree = "<group>";
+		};
+		AF16C1812DA4B71B00E7A180 /* airQualityApp-chanTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "airQualityApp-chanTests";
+			sourceTree = "<group>";
+		};
+		AF16C18B2DA4B71B00E7A180 /* airQualityApp-chanUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "airQualityApp-chanUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AF16C1652DA4B71A00E7A180 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF16C17B2DA4B71B00E7A180 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF16C1852DA4B71B00E7A180 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AF16C15F2DA4B71A00E7A180 = {
+			isa = PBXGroup;
+			children = (
+				AF16C16A2DA4B71B00E7A180 /* airQualityApp-chan */,
+				AF16C1812DA4B71B00E7A180 /* airQualityApp-chanTests */,
+				AF16C18B2DA4B71B00E7A180 /* airQualityApp-chanUITests */,
+				AF16C1692DA4B71B00E7A180 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AF16C1692DA4B71B00E7A180 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AF16C1682DA4B71B00E7A180 /* airQualityApp-chan.app */,
+				AF16C17E2DA4B71B00E7A180 /* airQualityApp-chanTests.xctest */,
+				AF16C1882DA4B71B00E7A180 /* airQualityApp-chanUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AF16C1672DA4B71A00E7A180 /* airQualityApp-chan */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AF16C1912DA4B71B00E7A180 /* Build configuration list for PBXNativeTarget "airQualityApp-chan" */;
+			buildPhases = (
+				AF16C1642DA4B71A00E7A180 /* Sources */,
+				AF16C1652DA4B71A00E7A180 /* Frameworks */,
+				AF16C1662DA4B71A00E7A180 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				AF16C16A2DA4B71B00E7A180 /* airQualityApp-chan */,
+			);
+			name = "airQualityApp-chan";
+			packageProductDependencies = (
+			);
+			productName = "airQualityApp-chan";
+			productReference = AF16C1682DA4B71B00E7A180 /* airQualityApp-chan.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AF16C17D2DA4B71B00E7A180 /* airQualityApp-chanTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AF16C1962DA4B71B00E7A180 /* Build configuration list for PBXNativeTarget "airQualityApp-chanTests" */;
+			buildPhases = (
+				AF16C17A2DA4B71B00E7A180 /* Sources */,
+				AF16C17B2DA4B71B00E7A180 /* Frameworks */,
+				AF16C17C2DA4B71B00E7A180 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AF16C1802DA4B71B00E7A180 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AF16C1812DA4B71B00E7A180 /* airQualityApp-chanTests */,
+			);
+			name = "airQualityApp-chanTests";
+			packageProductDependencies = (
+			);
+			productName = "airQualityApp-chanTests";
+			productReference = AF16C17E2DA4B71B00E7A180 /* airQualityApp-chanTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AF16C1872DA4B71B00E7A180 /* airQualityApp-chanUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AF16C1992DA4B71B00E7A180 /* Build configuration list for PBXNativeTarget "airQualityApp-chanUITests" */;
+			buildPhases = (
+				AF16C1842DA4B71B00E7A180 /* Sources */,
+				AF16C1852DA4B71B00E7A180 /* Frameworks */,
+				AF16C1862DA4B71B00E7A180 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AF16C18A2DA4B71B00E7A180 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AF16C18B2DA4B71B00E7A180 /* airQualityApp-chanUITests */,
+			);
+			name = "airQualityApp-chanUITests";
+			packageProductDependencies = (
+			);
+			productName = "airQualityApp-chanUITests";
+			productReference = AF16C1882DA4B71B00E7A180 /* airQualityApp-chanUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AF16C1602DA4B71A00E7A180 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					AF16C1672DA4B71A00E7A180 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					AF16C17D2DA4B71B00E7A180 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = AF16C1672DA4B71A00E7A180;
+					};
+					AF16C1872DA4B71B00E7A180 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = AF16C1672DA4B71A00E7A180;
+					};
+				};
+			};
+			buildConfigurationList = AF16C1632DA4B71A00E7A180 /* Build configuration list for PBXProject "airQualityApp-chan" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AF16C15F2DA4B71A00E7A180;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = AF16C1692DA4B71B00E7A180 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AF16C1672DA4B71A00E7A180 /* airQualityApp-chan */,
+				AF16C17D2DA4B71B00E7A180 /* airQualityApp-chanTests */,
+				AF16C1872DA4B71B00E7A180 /* airQualityApp-chanUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AF16C1662DA4B71A00E7A180 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF16C17C2DA4B71B00E7A180 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF16C1862DA4B71B00E7A180 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AF16C1642DA4B71A00E7A180 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF16C17A2DA4B71B00E7A180 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF16C1842DA4B71B00E7A180 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AF16C1802DA4B71B00E7A180 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AF16C1672DA4B71A00E7A180 /* airQualityApp-chan */;
+			targetProxy = AF16C17F2DA4B71B00E7A180 /* PBXContainerItemProxy */;
+		};
+		AF16C18A2DA4B71B00E7A180 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AF16C1672DA4B71A00E7A180 /* airQualityApp-chan */;
+			targetProxy = AF16C1892DA4B71B00E7A180 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AF16C1922DA4B71B00E7A180 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "airQualityApp-chan/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "chanman.airQualityApp-chan";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AF16C1932DA4B71B00E7A180 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "airQualityApp-chan/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "chanman.airQualityApp-chan";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AF16C1942DA4B71B00E7A180 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AF16C1952DA4B71B00E7A180 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AF16C1972DA4B71B00E7A180 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "chanman.airQualityApp-chanTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/airQualityApp-chan.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/airQualityApp-chan";
+			};
+			name = Debug;
+		};
+		AF16C1982DA4B71B00E7A180 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "chanman.airQualityApp-chanTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/airQualityApp-chan.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/airQualityApp-chan";
+			};
+			name = Release;
+		};
+		AF16C19A2DA4B71B00E7A180 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "chanman.airQualityApp-chanUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "airQualityApp-chan";
+			};
+			name = Debug;
+		};
+		AF16C19B2DA4B71B00E7A180 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "chanman.airQualityApp-chanUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "airQualityApp-chan";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AF16C1632DA4B71A00E7A180 /* Build configuration list for PBXProject "airQualityApp-chan" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF16C1942DA4B71B00E7A180 /* Debug */,
+				AF16C1952DA4B71B00E7A180 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AF16C1912DA4B71B00E7A180 /* Build configuration list for PBXNativeTarget "airQualityApp-chan" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF16C1922DA4B71B00E7A180 /* Debug */,
+				AF16C1932DA4B71B00E7A180 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AF16C1962DA4B71B00E7A180 /* Build configuration list for PBXNativeTarget "airQualityApp-chanTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF16C1972DA4B71B00E7A180 /* Debug */,
+				AF16C1982DA4B71B00E7A180 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AF16C1992DA4B71B00E7A180 /* Build configuration list for PBXNativeTarget "airQualityApp-chanUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF16C19A2DA4B71B00E7A180 /* Debug */,
+				AF16C19B2DA4B71B00E7A180 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AF16C1602DA4B71A00E7A180 /* Project object */;
+}
